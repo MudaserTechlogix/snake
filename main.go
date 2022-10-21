@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/DyegoCosta/snake-game/snake"
+	"github.com/MudaserTechlogix/snake/snake"
 	"github.com/sqweek/dialog"
 )
 
